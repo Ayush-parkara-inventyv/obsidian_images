@@ -1,12 +1,12 @@
 We have tried various other instances and urls to get the contents from the original sites 
 1st. Quora
 we have found from the sources that we have 
-![[Pasted image 20250513184450.png]]
+![](https://github.com/Ayush-parkara-inventyv/obsidian_images/blob/main/Pasted%20image%2020250513184450.png)
 also we checked other ways like googling and privacy-guides
 from all we got this github repo
-![[Pasted image 20250513184555.png]]
+![](https://github.com/Ayush-parkara-inventyv/obsidian_images/blob/main/Pasted%20image%2020250513184555.png)
 and also we got the list of various instances
-![[WhatsApp Image 2025-05-13 at 18.44.04_147b77d2.jpg]]
+![](https://github.com/Ayush-parkara-inventyv/obsidian_images/blob/main/WhatsApp Image 2025-05-13 at 18.44.04_147b77d2.jpg)
 we tried all of these and most of them were showing 503 or 500 error
 ![[WhatsApp Image 2025-05-13 at 18.45.06_06730899.jpg]]and ![[WhatsApp Image 2025-05-13 at 18.45.54_3c37ac3f.jpg]]
 but one was active and working and we were able to use it so we have added that to our code ![[WhatsApp Image 2025-05-13 at 18.46.57_74e7f0e7.jpg]]
